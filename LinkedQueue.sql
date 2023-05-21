@@ -127,5 +127,5 @@ qi.concatenate(92);
 System.out.println(&quot;After concatenation:&quot; + q1.toString();
 }}
 
-Time Complexity: Time complexity of both operations enqueue() and dequeue() is O(1) as
-we only change few pointers in both operations. There is no loop in any of the operations.
+//Time Complexity: Time complexity of both operations enqueue() and dequeue() is O(1) as
+//we only change few pointers in both operations. There is no loop in any of the operations.
